@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    guzw家常菜
+                    guzw
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
